@@ -31,6 +31,7 @@ a:link, a:visited, a:hover, a:active {
 }
 
 #header {
+    font-size:1.2em;
     padding-top:30px;
     border-bottom: 3px solid #eee;
 }
@@ -75,8 +76,10 @@ a:link, a:visited, a:hover, a:active {
 }
 
 #sidecol {
-    width:295px;
-    padding-left:5px;
+    width:285px;
+    margin-top:3px;
+    padding-left:15px;
+    line-height:1.8em;
     float:right;
 }
 #sidecol h3 {
