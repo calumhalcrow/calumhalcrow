@@ -24,6 +24,7 @@ body {
     width:780px;
     margin:0 auto;
     font-family:"Lucida Grande","Lucida Sans Unicode",verdana,geneva,sans-serif;
+    background:url(/i/square_bg.png) repeat;
 }
 
 a:link, a:visited, a:hover, a:active {
@@ -33,7 +34,7 @@ a:link, a:visited, a:hover, a:active {
 #header {
     font-size:1.2em;
     padding-top:30px;
-    border-bottom: 3px solid #eee;
+    border-bottom: 3px solid #b30808;
 }
 #header h1 {
     margin:5px 0;
@@ -85,7 +86,6 @@ a:link, a:visited, a:hover, a:active {
 #sidecol h3 {
     font-size:1em;
     margin:30px 0 10px 0;
-    border-bottom:1px solid #eee;
 }
 #sidecol p {
     font-size:0.9em;
