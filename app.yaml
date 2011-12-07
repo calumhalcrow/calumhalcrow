@@ -12,4 +12,5 @@ handlers:
 - url: /i
   static_dir: i
 - url: /.*
-  script: main.py
+  static_files: index.html
+  upload: index\.html
