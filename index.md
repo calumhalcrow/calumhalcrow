@@ -34,7 +34,7 @@ Tech stack: [Perl][1], [Moose][2], [Catalyst][3], [PostGreSQL][4], [CouchDB][5],
 
 ### [KudosEnglishLearning.com](http://kudosenglishlearning.com)
 
-This is my wife's business website. She is an English Trainer, based in the Klang Valley area but often working across Peninsular Malaysia. The site for a technical point of view lacks bells and whistles, but I see that as a good thing. Easy to maintain, easy for visitors to find the information they're looking for, or get in touch. There are some subtle yet interesting design elements that can be found if you look for them: Web Fonts, CSS3 gradients and HTML5 mark-up. (Oh, and I designed the site myself; which I mention not so much as a complement to my design skills but more as an explanation as to why it looks as it does :-)
+This is my wife's business website. She is an English Trainer, based in the Klang Valley area but often working across Peninsular Malaysia. The site from a technical point of view lacks bells and whistles, but I see that as a good thing. Easy to maintain, easy for visitors to find the information they're looking for, or get in touch. There are some subtle yet interesting design elements that can be found if you look for them: Web Fonts, CSS3 gradients and HTML5 mark-up. (Oh, and I designed the site myself; which I mention not so much as a complement to my design skills but more as an explanation as to why it looks as it does :-)
 
 Tech stack: [WordPress][13], [DreamHost][14], [HTML5][15], [CSS3][16].
 
@@ -59,7 +59,7 @@ Tech stack: [Python][17], [Django][18], [Tornado][19], [SocketIO][20], [RabbitMQ
 
 ### [WebCamp KL](http://webcamp.my)
 
-WebCamp is a monthly meet-up of web professionals based in and around Kuala Lumpur. I am a fairly active member of the community, and have volunteered to help the group develop in 2012 (read: I haven't done anything to help them..._yet_).
+WebCamp is a monthly meet-up of web professionals based in and around Kuala Lumpur. I am a fairly active member of the community, and have volunteered to help the group develop in 2012 (read: I haven't done anything to help them... _yet_).
 
 ### [CunningsburghHeritage.com](http://cunningsburghheritage.com)
 
@@ -67,7 +67,7 @@ A site that I set up some time ago for the Cunningsburgh History Group, a commun
 
 Tech stack: [MODX](http://modx.com), DreamHost.
 
-Also, (just about) worth mentioning: this very site! CalumHalcrow.com is a very simple static-HTML page build with [Jekyll](http://jekyllrb.com) and hosted on [Google App Engine](http://code.google.com/appengine).
+Also, (just about) worth mentioning: this very site! CalumHalcrow.com is a very simple static-HTML page built with [Jekyll](http://jekyllrb.com), [Markdown](http://daringfireball.net/projects/markdown) and hosted on [Google App Engine](http://code.google.com/appengine).
 
 My Setup
 --------
