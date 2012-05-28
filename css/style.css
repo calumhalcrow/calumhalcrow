@@ -61,6 +61,7 @@ h2 {
     font-size:1.5em;
     color:#111;
     margin:1em 0 0.7em 0;
+    clear:left;
 }
 h3 {
     font-size:1.1em;
@@ -92,7 +93,8 @@ a:link, a:visited, a:hover, a:active {
 }
 #content img {
     float:left;
-    margin:6px 10px 0 0;
+    width:27.7777778%;
+    margin:1% 2% 1% 0;
     border:1px solid #222;
 }
 
