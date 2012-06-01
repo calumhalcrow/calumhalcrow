@@ -1,2 +1,4 @@
 .NOTES
 index.html
+*.swp
+_site/
