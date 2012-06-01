@@ -94,7 +94,7 @@ a:link, a:visited, a:hover, a:active {
 #content img {
     float:left;
     width:27.7777778%;
-    margin:1% 2% 1% 0;
+    margin:1.5% 2% 1% 0;
     border:1px solid #222;
 }
 
@@ -111,4 +111,34 @@ a:link, a:visited, a:hover, a:active {
     text-align:center;
     font-size:0.8em;
     color:#666;
+}
+
+
+@media screen and (min-width: 1100px) {
+    body, #footer {
+        width:990px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    body {
+        font-size:80%;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    body {
+        text-align:justify;
+    }
+    #content {
+        width:100%;
+        float:none;
+    }
+    #sidecol {
+        width:100%;
+        float:none;
+        margin-top:1em;
+        padding-top:1em;
+        border-top:3px solid #b30808;
+    }
 }
