@@ -67,7 +67,13 @@ A site that I set up some time ago for the Cunningsburgh History Group, a commun
 
 Tech stack: [MODX](http://modx.com), DreamHost.
 
-Also, (just about) worth mentioning: this very site! CalumHalcrow.com is a very simple static-HTML page built with [Jekyll](http://jekyllrb.com), [Markdown](http://daringfireball.net/projects/markdown) and hosted on [Google App Engine](http://code.google.com/appengine).
+Also, (just about) worth mentioning:
+
+### This very site!
+
+CalumHalcrow.com is a very simple static-HTML page built with [Jekyll](http://jekyllrb.com), [Markdown](http://daringfireball.net/projects/markdown) and hosted on [Google App Engine](http://code.google.com/appengine).
+
+I used this site to experiment with [Responsive Web Design](http://www.abookapart.com/products/responsive-web-design) techniques. If you're reading this on a smart-phone you should be experiencing a design more tailored to your screen-width. If you're on a larger display and are interested to see how resposive design works, try resizing the browser window and note how the design changes as the width gets smaller...
 
 My Setup
 --------
