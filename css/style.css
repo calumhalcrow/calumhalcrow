@@ -32,7 +32,7 @@ body {
     line-height: 1;
 }
 ol, ul {
-    list-style: none;
+    margin-left:2em;
 }
 blockquote, q {
     quotes: none;
@@ -66,6 +66,9 @@ h2 {
 h3 {
     font-size:1.1em;
     margin:1.2em 0 0.8em;
+}
+p {
+    margin:1em 0;
 }
 
 a:link, a:visited, a:hover, a:active {
