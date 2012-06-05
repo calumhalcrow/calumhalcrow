@@ -17,7 +17,7 @@ Here's a run-down of some of the projects I'm currently involved in. The "Tech s
 
 I have worked on BetOnMarkets, a provider of fixed-odd financial contracts, as an employee of Regent Markets (the site's owner) for six years. The service has a large user base, and working to maintain and bring it forward is a challenging role. I have learned a lot about the dynamics of a software company during my time there, from how to have the discipline to write high quality code when everyone wants things done yesterday, to the difficulties of managing a team of developers in a fast-paced company with (seemingly) tonnes of priorities. Definitely my pragmatism, attitude toward Getting Things Done, and general maturity as a software developer was carved into me at RMG (and still is being, to this day).
 
-Tech stack: [Perl][1], [Moose][2], [Catalyst][3], [PostGreSQL][4], [CouchDB][5], [JavaScript][6], [JQuery][7], [Apache][8], [Nginx][9], [Jenkins][10], [Git][11], [Debian][12].
+Tech stack: [Perl][1], [Moose][2], [Mojolicious][24], [Catalyst][3], [PostGreSQL][4], [CouchDB][5], [JavaScript][6], [JQuery][7], [Apache][8], [Nginx][9], [Jenkins][10], [Git][11], [Debian][12].
 
 [1]: http://perl.org
 [2]: http://moose.perl.org
@@ -31,6 +31,7 @@ Tech stack: [Perl][1], [Moose][2], [Catalyst][3], [PostGreSQL][4], [CouchDB][5],
 [10]: http://jenkins-ci.org
 [11]: http://git-scm.com
 [12]: http://debian.org
+[24]: http://mojolicio.us
 
 ### [KudosEnglishLearning.com](http://kudosenglishlearning.com)
 
