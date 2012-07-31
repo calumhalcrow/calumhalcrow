@@ -44,7 +44,7 @@ Tech stack: [WordPress][13], [DreamHost][14], [HTML5][15], [CSS3][16].
 [15]: http://html5rocks.com
 [16]: http://css3.info
 
-### [Campr](http://campr.herokuapp.com)
+### [Campr](http://campr.calumhalcrow.com)
 
 Campr is a webapp that facilitates networking at events. It allows you to see everyone who is at the event you are attending, along with a little bit of information about each person. Based on this, you can single out people you may want to get to know better. The project was started at [Hack Weekend](http://hack.weekend.my), a delightful hackathon series that takes place every quarter in Kuala Lumpur.
 
