@@ -17,21 +17,7 @@ Here's a run-down of some of the projects I'm currently involved in. The "Tech s
 
 I have worked on BetOnMarkets, a provider of fixed-odd financial contracts, as an employee of Regent Markets (the site's owner) for six years. The service has a large user base, and working to maintain and bring it forward is a challenging role. I have learned a lot about the dynamics of a software company during my time there, from how to have the discipline to write high quality code when everyone wants things done yesterday, to the difficulties of managing a team of developers in a fast-paced company with (seemingly) tonnes of priorities. Definitely my pragmatism, attitude toward Getting Things Done, and general maturity as a software developer was carved into me at RMG (and still is being, to this day).
 
-Tech stack: [Perl][1], [Moose][2], [Mojolicious][24], [Catalyst][3], [PostGreSQL][4], [CouchDB][5], [JavaScript][6], [JQuery][7], [Apache][8], [Nginx][9], [Jenkins][10], [Git][11], [Debian][12].
-
-[1]: http://perl.org
-[2]: http://moose.perl.org
-[3]: http://catalystframework.org
-[4]: http://postgresql.org
-[5]: http://couchdb.apache.org
-[6]: http://en.wikipedia.org/wiki/JavaScript
-[7]: http://jquery.com
-[8]: http://apache.org
-[9]: http://nginx.org
-[10]: http://jenkins-ci.org
-[11]: http://git-scm.com
-[12]: http://debian.org
-[24]: http://mojolicio.us
+Tech stack: [Perl][1], [Moose][2], [Mojolicious][24], [Catalyst][3], [PostGreSQL][4], [CouchDB][5], [Redis][25], [JavaScript][6], [JQuery][7], [Apache][8], [Nginx][9], [Jenkins][10], [Git][11], [Debian][12].
 
 ### [KudosEnglishLearning.com](http://kudosenglishlearning.com)
 
@@ -39,24 +25,11 @@ This is my wife's business website. She is an English Trainer, based in the Klan
 
 Tech stack: [WordPress][13], [DreamHost][14], [HTML5][15], [CSS3][16].
 
-[13]: http://wordpress.org
-[14]: http://dreamhost.com
-[15]: http://html5rocks.com
-[16]: http://css3.info
-
 ### [Campr](http://campr.calumhalcrow.com)
 
 Campr is a webapp that facilitates networking at events. It allows you to see everyone who is at the event you are attending, along with a little bit of information about each person. Based on this, you can single out people you may want to get to know better. The project was started at [Hack Weekend](http://hack.weekend.my), a delightful hackathon series that takes place every quarter in Kuala Lumpur.
 
 Tech stack: [Python][17], [Django][18], [Tornado][19], [SocketIO][20], [RabbitMQ][21], [SQLite][22], [Heroku][23].
-
-[17]: http://python.org
-[18]: http://djangoproject.com
-[19]: http://tornadoweb.org
-[20]: http://socket.io
-[21]: http://rabbitmq.com
-[22]: http://sqlite.org
-[23]: http://heroku.com
 
 ### [WebCamp KL](http://webcamp.my)
 
@@ -80,3 +53,29 @@ My Setup
 --------
 
 I like to use simple and lightweight yet powerful development tools. The OS I use is [Ubuntu](http://ubuntu.com) [Linux](http://gnu.org). I do almost everything on a [Bash](http://www.gnu.org/s/bash) shell, use [Vim](http://vim.org) (the last editor you'll ever use) for writing code and Git for source control.
+
+[1]: http://perl.org
+[2]: http://moose.perl.org
+[3]: http://catalystframework.org
+[4]: http://postgresql.org
+[5]: http://couchdb.apache.org
+[6]: http://en.wikipedia.org/wiki/JavaScript
+[7]: http://jquery.com
+[8]: http://apache.org
+[9]: http://nginx.org
+[10]: http://jenkins-ci.org
+[11]: http://git-scm.com
+[12]: http://debian.org
+[13]: http://wordpress.org
+[14]: http://dreamhost.com
+[15]: http://html5rocks.com
+[16]: http://css3.info
+[17]: http://python.org
+[18]: http://djangoproject.com
+[19]: http://tornadoweb.org
+[20]: http://socket.io
+[21]: http://rabbitmq.com
+[22]: http://sqlite.org
+[23]: http://heroku.com
+[24]: http://mojolicio.us
+[25]: http://redis.io
