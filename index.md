@@ -19,6 +19,22 @@ I have worked on BetOnMarkets, a provider of fixed-odd financial contracts, as a
 
 Tech stack: [Perl][1], [Moose][2], [Mojolicious][24], [Catalyst][3], [PostGreSQL][4], [CouchDB][5], [Redis][25], [JavaScript][6], [JQuery][7], [Apache][8], [Nginx][9], [Jenkins][10], [Git][11], [Debian][12].
 
+### [BukitGasingTrails.info](http://bukitgasingtrails.info)
+
+This webpage shows a map of Bukit Gasing, a forest park located between <abbr title="Kuala Lumpur">KL</abbr> and <abbr title="Petaling Jaya">PJ</abbr>. I started going to the park shortly after moving to the surrounding area. After visiting several times I felt I wanted to see a map of the trails, but when I searched the web I couldn't find anything accurate. That plus being asked for directions a few times, and the existence of some groups fighting to stop further real-estate development on the park's fringes, I decided that having some accessible, accurate information about the park's features online would be beneficial to the community. After battling with the Google Maps JS API, Ruby's Jekyll and writing a Ruby module (with an RSpec unit test!) that puts together the map's data into a <abbr title="JavaScript Object Notation">JSON</abbr> file, the site was good to go.
+
+I should add that I originally thought Rails would be a good choice to power the back-end (there are quite a lot of map nodes that need to be stored somewhere). It turned out that Rails wasn't a good choice, and I ended up storing my map data on a "My Maps" Google Map, exporting the map to KML and parsing it into the format I wanted with a Ruby module. The one thing I got out of that endeavour though was experience with Rails! I actually grew very fond of the framework and wouldn't mind using it in some other projects.
+
+Tech stack: [Google Maps JS API][26], [Jekyll][27], [Ruby][28], [RSpec][29], [Rake][30], [KML][31], [Rails][32].
+
+[26]: http://developers.google.com/maps/documentation/javascript/
+[27]: http://jekyllrb.com
+[28]: http://www.ruby-lang.org
+[29]: http://rspec.info
+[30]: http://rake.rubyforge.org
+[31]: http://developers.google.com/kml/documentation/
+[32]: http://rubyonrails.org
+
 ### [KudosEnglishLearning.com](http://kudosenglishlearning.com)
 
 This is my wife's business website. She is an English Trainer, based in the Klang Valley area but often working across Peninsular Malaysia. The site from a technical point of view lacks bells and whistles, but I see that as a good thing. Easy to maintain, easy for visitors to find the information they're looking for, or get in touch. There are some subtle yet interesting design elements that can be found if you look for them: Web Fonts, CSS3 gradients and HTML5 mark-up. (Oh, and I designed the site myself; which I mention not so much as a complement to my design skills but more as an explanation as to why it looks as it does :-)
