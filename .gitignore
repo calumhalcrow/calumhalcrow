@@ -3,3 +3,4 @@ index.html
 *.swp
 _site/
 _vendor/
+.bundle/
