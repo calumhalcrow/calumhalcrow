@@ -49,7 +49,7 @@ Tech stack: [Python][17], [Django][18], [Tornado][19], [SocketIO][20], [RabbitMQ
 
 ### [WebCamp KL](http://webcamp.my)
 
-WebCamp is a monthly meet-up of web professionals based in and around Kuala Lumpur. I am a fairly active member of the community, and have volunteered to help the group develop in 2012 (read: I haven't done anything to help them... _yet_).
+WebCamp is a monthly meet-up of web professionals based in and around Kuala Lumpur. I am a fairly active member of the community, and have helped in minor ways to organise some of the group's events.
 
 ### [CunningsburghHeritage.com](http://cunningsburghheritage.com)
 
@@ -68,7 +68,7 @@ I used this site to experiment with [Responsive Web Design](http://www.abookapar
 My Setup
 --------
 
-I like to use simple and lightweight yet powerful development tools. The OS I use is [Ubuntu](http://ubuntu.com) [Linux](http://gnu.org). I do almost everything on a [Bash](http://www.gnu.org/s/bash) shell, use [Vim](http://vim.org) (the last editor you'll ever use) for writing code and Git for source control.
+I like to use simple and lightweight yet powerful development tools. The OS I use is [Debian](http://www.debian.org/) [Linux](http://gnu.org). I do almost everything on a [Bash](http://www.gnu.org/s/bash) shell, use [Vim](http://vim.org) (the last editor you'll ever use) for writing code and Git for source control.
 
 [1]: http://perl.org
 [2]: http://moose.perl.org
