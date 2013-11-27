@@ -6,16 +6,27 @@ title: Calum Halcrow
 Bio
 ---
 
-![Calum Halcrow](/i/bio.jpg "That's me and my wife folks.")I was born and brought up in [Shetland](http://shetland.org), Scotland. After finishing school I went to study Mathematics at the [University of Edinburgh](http://www.ed.ac.uk). After graduating I felt a change of direction was necessary and so [moved into web development](http://nbcommunication.com) and programming. I met my now wife during university and we decided to settle down in [Malaysia](http://en.wikipedia.org/wiki/Malaysia) where she's from. We currently live in the country's capital, Kuala Lumpur, and I currently work as a Perl programmer in Cyberjaya, a tech hub located just outside the city.
+![Calum Halcrow](/i/bio.jpg "That's me and my wife folks.")I was born and brought up in [Shetland](http://shetland.org), Scotland. After finishing school I went to study Mathematics at the [University of Edinburgh](http://www.ed.ac.uk). After graduating I felt a change of direction was necessary and so [moved into web development](http://nbcommunication.com) and programming. I met my now wife during university and we decided to settle down in [Malaysia](http://en.wikipedia.org/wiki/Malaysia) where she's from. We currently live in the country's capital, Kuala Lumpur, and I currently work as a Software Developer at [Mindvalley](http://mindvalley.com).
 
 Projects
 --------
 
-Here's a run-down of some of the projects I'm currently involved in. The "Tech stack" underneath each lists major technologies used in each project, in particular the ones I am most familiar with.
+Here's a run-down of some of the projects I've been involved in. The "Tech stack" underneath each lists major technologies used in the project, in particular the ones I am most familiar with.
 
-### [BetOnMarkets.com](http://betonmarkets.com)
+### [Mindvalley](http://mindvalley.com)
 
-I have worked on BetOnMarkets, a provider of fixed-odd financial contracts, as an employee of Regent Markets (the site's owner) for six years. The service has a large user base, and working to maintain and bring it forward is a challenging role. I have learned a lot about the dynamics of a software company during my time there, from how to have the discipline to write high quality code when everyone wants things done yesterday, to the difficulties of managing a team of developers in a fast-paced company with (seemingly) tonnes of priorities. Definitely my pragmatism, attitude toward Getting Things Done, and general maturity as a software developer was carved into me at RMG (and still is being, to this day).
+I currently work for Mindvalley, developing web-apps that support their core business. Because Mindvalley market and sell wellness products, their portfolio of internal apps include: sophisticated campaign tracking services, an e-commerce platform, <abbr title="Email Service Provider">ESP</abbr> integrations and more. Customer-facing platforms are also coming to the fore at Mindvalley. From our recently launched [Academy](http://mindvalleyacademy.com) to [Omvana](http://www.omvana.com), our first venture into mobile, there's plenty going on.
+
+Tech stack: [Ruby][33], [Rails][32], [RSpec][29], [Capistrano][35], [PostGreSQL][4], [MongoDB][36], [Linode][37]
+
+[33]: http://ruby-lang.org
+[35]: http://www.capistranorb.com
+[36]: http://www.mongodb.org
+[37]: https://www.linode.com
+
+### [Binary.com](http://binary.com)
+
+I worked on Binary.com, a provider of fixed-odd financial contracts, as an employee of Regent Markets (the site's owner) for six years. The service has a large user base, and I worked to maintain and bring it forward. I learned a lot about the dynamics of a software company during my time there, from how to have the discipline to write high quality code when everyone wants things done yesterday, to the difficulties of managing a team of developers in a fast-paced company with (seemingly) tonnes of priorities. Definitely my pragmatism, attitude toward Getting Things Done, and general maturity as a software developer was carved into me at RMG.
 
 Tech stack: [Perl][1], [Moose][2], [Mojolicious][24], [Catalyst][3], [PostGreSQL][4], [CouchDB][5], [Redis][25], [JavaScript][6], [JQuery][7], [Apache][8], [Nginx][9], [Jenkins][10], [Git][11], [Debian][12].
 
@@ -43,7 +54,7 @@ Tech stack: [WordPress][13], [DreamHost][14], [HTML5][15], [CSS3][16].
 
 ### [Campr](http://campr.calumhalcrow.com)
 
-Campr is a webapp that facilitates networking at events. It allows you to see everyone who is at the event you are attending, along with a little bit of information about each person. Based on this, you can single out people you may want to get to know better. The project was started at [Hack Weekend](http://hack.weekend.my), a delightful hackathon series that takes place every quarter in Kuala Lumpur.
+Campr is a webapp that facilitates networking at events. It allows you to see everyone who is at the event you are attending, along with a little bit of information about each person. Based on this, you can single out people you may want to get to know better. The project was started at [Hack Weekend](http://hack.weekend.my), a delightful hackathon series that takes place every quarter in Kuala Lumpur. Working on Campr was a great learning experience, but we've ceased development on the project.
 
 Tech stack: [Python][17], [Django][18], [Tornado][19], [SocketIO][20], [RabbitMQ][21], [SQLite][22], [Heroku][23].
 
